@@ -14,6 +14,8 @@ A collaborative guide by  -Yvetteamoth06
 - [Notion](#notion)
 - [Canva](#canva)
 - [ChatGPT](#chatgpt)
+- Deep seek
+- Replit
 
 ## Introduction
 This guide explores useful tools that help students with studying, learning, and completing school projects more efficiently.
