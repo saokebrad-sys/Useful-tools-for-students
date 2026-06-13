@@ -7,5 +7,7 @@ _eg notion of variable refers to the concept of storing data in a named location
 -supports task list and timelines to track work and deadlines 
 +
 ###where to access 
--notion website and sign in
--through shared links.
+-go to notion.com
+-create free account with your G-mail 
+-click create.
+useful links(https://www.notion.com)
