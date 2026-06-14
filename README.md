@@ -22,8 +22,25 @@ A collaborative guide by  -Yvetteamoth06
 This guide explores useful tools that help students with studying, learning, and completing school projects more efficiently.
 Each section highlights a different tool and explains how it can be used in schoolwork and daily academic tasks.
 
-## VS Code
-Explain what VS Code is and how students use it.
+## **VS Code (Visual Studio Code)**
+VS Code is a free and powerful code editor. It was developed by Microsoft. It is usually used by students, programmers, and data analysts. VS Code provides useful features like *syntax highlighting* *debugging tools* and *extensions* that make coding more easier and effective
+
+### **Why Students Should Use it**
+- To write and text code in Python, Java, JavaScript, C++
+- Build software applications.
+- Create websites.
+- Work on academic projects.
+
+### ** How to Get Started**
+1. Download VS Code from the official site.
+2. Install extensions for your preferred language (e.g., Python, JavaScript).
+3. Explore features like IntelliSense (smart code completion) and integrated terminal.
+
+### **Useful Links**
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+- [Official VS Code Site](https://code.visualstudio.com/)
+- [Courser](https://www.coursera.org/articles/visual-studio-code)
+- [Microsoft Learn-VS Code](https://learn.microsoft.com/shows/visual-studio-code/?utm_source=chatgpt.com)
 
 ## Notion
 Explain what Notion is and how students use it.
