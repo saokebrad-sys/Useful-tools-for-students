@@ -71,7 +71,8 @@ How students actually use it
 - *Magic tools*: "Magic Write" helps draft text, "Magic Design" turns a prompt into a full slide deck, "Background Remover" cuts out images in one click.
 
 ## zoom
-Zoom is a video conferencing platform developed by Zoom that allows people to communicate online through video, audio, chat, and screen sharing. It works by connecting users over the internet so they can join virtual meetings, classes, and discussions from different locations. Students use Zoom to attend online lessons, participate in group discussions, collaborate on projects, ask questions, and communicate with teachers and classmates in real time. It helps make remote learning more interactive and accessible by bringing students and educators together in a virtual classroom.
+Zoom is a video conferencing platform developed by Zoom that allows people to communicate online through video, audio, chat, and screen sharing.
+It works by connecting users over the internet so they can join virtual meetings, classes, and discussions from different locations. Students use Zoom to attend online lessons, participate in group discussions, collaborate on projects, ask questions, and communicate with teachers and classmates in real time. It helps make remote learning more interactive and accessible by bringing students and educators together in a virtual classroom.
 
 
 
