@@ -2,7 +2,7 @@ Canva is a free online design tool that lets anyone make pro-looking graphics wi
 -to-down
  
 
-8 ways students actually use it
+ ways students actually use it
 
 1. Presentations that don't look boring
 - Ditch Google Slides. Pick an animated template, drop in your points, add charts/QR codes
