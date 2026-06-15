@@ -16,7 +16,7 @@ A collaborative guide by  -Yvetteamoth06
 - [ChatGPT](#chatgpt)
 - [Deep seek]
 - [Replit]
-- [zoom]
+- [zoom](#zoom)
 
 ## Introduction
 This guide explores useful tools that help students with studying, learning, and completing school projects more efficiently.
