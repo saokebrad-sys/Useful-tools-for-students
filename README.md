@@ -23,6 +23,9 @@ This guide explores useful tools that help students with studying, learning, and
 Each section highlights a different tool and explains how it can be used in schoolwork and daily academic tasks.
 
 ## **VS Code (Visual Studio Code)**
+
+![VS Code](images/vscode.png)
+
 VS Code is a free and powerful code editor. It was developed by Microsoft. It is usually used by students, programmers, and data analysts. VS Code provides useful features like *syntax highlighting* *debugging tools* and *extensions* that make coding more easier and effective
 
 ### **Why Students Should Use it**
@@ -30,6 +33,8 @@ VS Code is a free and powerful code editor. It was developed by Microsoft. It is
 - Build software applications.
 - Create websites.
 - Work on academic projects.
+
+![VS Code Screenshot](images/vscode-screenshot.png)
 
 ### ** How to Get Started**
 1. Download VS Code from the official site.
