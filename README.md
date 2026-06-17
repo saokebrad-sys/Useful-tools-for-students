@@ -34,7 +34,7 @@ VS Code is a free and powerful code editor. It was developed by Microsoft. It is
 - Create websites.
 - Work on academic projects.
 
-![VS Code Screenshot](images/vscode-screenshot.png)
+![Assignment screenshot](Images/assignment.jpg)
 
 ### ** How to Get Started**
 1. Download VS Code from the official site.
